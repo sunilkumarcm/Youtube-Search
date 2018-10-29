@@ -6,7 +6,7 @@ Below are the requirments to run application
  * Library Requirements
  *
  * 1. Install composer (https://getcomposer.org)
- * 2. On the command line, change to this directory (api-samples/php)
+ * 2. On the command line, change to this directory (Youtube-Search/class)
  * 3. Require the google/apiclient library
  *    $ composer require google/apiclient:~2.0
  */
